@@ -1,0 +1,9 @@
+/Users/Toan.Vo/Downloads/applying-asynchronous-programming-c-sharp/02/demos/Cross-Platform/Start_Here/StockAnalyzer.Core/bin/Debug/netstandard2.0/StockAnalyzer.Core.deps.json
+/Users/Toan.Vo/Downloads/applying-asynchronous-programming-c-sharp/02/demos/Cross-Platform/Start_Here/StockAnalyzer.Core/bin/Debug/netstandard2.0/StockAnalyzer.Core.dll
+/Users/Toan.Vo/Downloads/applying-asynchronous-programming-c-sharp/02/demos/Cross-Platform/Start_Here/StockAnalyzer.Core/bin/Debug/netstandard2.0/StockAnalyzer.Core.pdb
+/Users/Toan.Vo/Downloads/applying-asynchronous-programming-c-sharp/02/demos/Cross-Platform/Start_Here/StockAnalyzer.Core/obj/Debug/netstandard2.0/StockAnalyzer.Core.csprojAssemblyReference.cache
+/Users/Toan.Vo/Downloads/applying-asynchronous-programming-c-sharp/02/demos/Cross-Platform/Start_Here/StockAnalyzer.Core/obj/Debug/netstandard2.0/StockAnalyzer.Core.AssemblyInfoInputs.cache
+/Users/Toan.Vo/Downloads/applying-asynchronous-programming-c-sharp/02/demos/Cross-Platform/Start_Here/StockAnalyzer.Core/obj/Debug/netstandard2.0/StockAnalyzer.Core.AssemblyInfo.cs
+/Users/Toan.Vo/Downloads/applying-asynchronous-programming-c-sharp/02/demos/Cross-Platform/Start_Here/StockAnalyzer.Core/obj/Debug/netstandard2.0/StockAnalyzer.Core.csproj.CoreCompileInputs.cache
+/Users/Toan.Vo/Downloads/applying-asynchronous-programming-c-sharp/02/demos/Cross-Platform/Start_Here/StockAnalyzer.Core/obj/Debug/netstandard2.0/StockAnalyzer.Core.dll
+/Users/Toan.Vo/Downloads/applying-asynchronous-programming-c-sharp/02/demos/Cross-Platform/Start_Here/StockAnalyzer.Core/obj/Debug/netstandard2.0/StockAnalyzer.Core.pdb

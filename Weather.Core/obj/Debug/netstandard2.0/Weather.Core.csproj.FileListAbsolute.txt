@@ -1,0 +1,9 @@
+/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/bin/Debug/netstandard2.0/Weather.Core.deps.json
+/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/bin/Debug/netstandard2.0/Weather.Core.dll
+/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/bin/Debug/netstandard2.0/Weather.Core.pdb
+/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/obj/Debug/netstandard2.0/Weather.Core.csprojAssemblyReference.cache
+/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/obj/Debug/netstandard2.0/Weather.Core.AssemblyInfoInputs.cache
+/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/obj/Debug/netstandard2.0/Weather.Core.AssemblyInfo.cs
+/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/obj/Debug/netstandard2.0/Weather.Core.csproj.CoreCompileInputs.cache
+/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/obj/Debug/netstandard2.0/Weather.Core.dll
+/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/obj/Debug/netstandard2.0/Weather.Core.pdb
