@@ -13,6 +13,11 @@ namespace Weather.Core.Services
     {
         Task<IEnumerable<WeatherView>> GetWeatherOfCityAsync(string cityName,
             CancellationToken cancellationToken);
+        Task<HttpResponseMessage> GetWeatherOfCityAsyncNoAsync(string cityName,
+            CancellationToken cancellationToken);
+        
+        Task<HttpResponseMessage> GetWeatherOfCityAsyncWithAsync(string cityName,
+            CancellationToken cancellationToken);
         
         IEnumerable<WeatherView> GetWeatherOfCity(string cityName);
 
@@ -36,6 +41,21 @@ namespace Weather.Core.Services
             }
         }
 
+        public Task<HttpResponseMessage> GetWeatherOfCityAsyncNoAsync(string cityName, CancellationToken cancellationToken)
+        {
+            var client = new HttpClient();
+            return client.GetAsync($"{API_URL}/{cityName}",
+                cancellationToken);
+        }
+        
+        public async Task<HttpResponseMessage> GetWeatherOfCityAsyncWithAsync(string cityName, CancellationToken cancellationToken)
+        {
+            var client = new HttpClient();
+            var response = await client.GetAsync($"{API_URL}/{cityName}",
+                cancellationToken);
+            return response;
+        }
+        
         public IEnumerable<WeatherView> GetWeatherOfCity(string cityName)
         {
             using (var client = new WebClient())

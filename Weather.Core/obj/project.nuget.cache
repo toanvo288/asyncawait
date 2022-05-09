@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a91xf+MKLUcfn7lDAzJ55sH2ss1hjs5sKqpth5SXOb/VuV0ZAYtMDaRNttq62bswnEtdL0khkNCYLYZG9hniuw==",
+  "dgSpecHash": "kfy6wmL7qgJtQrIolwP5h7HxMrFgQUchsoAg+xfGQjgtvRkxVk62xNyXfyYQc6AdMkhw+0aKoPFOPnFEEz6eVw==",
   "success": true,
-  "projectFilePath": "/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/Weather.Core.csproj",
+  "projectFilePath": "/Users/Toan.Vo/prj/asyncawait/Weather.Core/Weather.Core.csproj",
   "expectedPackageFiles": [
     "/Users/Toan.Vo/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/Toan.Vo/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

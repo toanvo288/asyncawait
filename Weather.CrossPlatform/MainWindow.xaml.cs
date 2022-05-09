@@ -43,7 +43,6 @@ namespace Weather.CrossPlatform
             /// Data provided for free by <a href="https://iextrading.com/developer/" RequestNavigate="Hyperlink_OnRequestNavigate">IEX</Hyperlink>. View <Hyperlink NavigateUri="https://iextrading.com/api-exhibit-a/" RequestNavigate="Hyperlink_OnRequestNavigate">IEX’s Terms of Use.</Hyperlink>
         }
 
-        private static string API_URL = "https://ps-async.fekberg.com/api/stocks";
         private Stopwatch stopwatch = new Stopwatch();
 
         // private void Search_Click(object sender, RoutedEventArgs e)

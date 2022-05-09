@@ -9022,11 +9022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.CrossPlatform/Weather.csproj",
+      "projectUniqueName": "/Users/Toan.Vo/prj/asyncawait/Weather.CrossPlatform/Weather.csproj",
       "projectName": "Weather",
-      "projectPath": "/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.CrossPlatform/Weather.csproj",
+      "projectPath": "/Users/Toan.Vo/prj/asyncawait/Weather.CrossPlatform/Weather.csproj",
       "packagesPath": "/Users/Toan.Vo/.nuget/packages/",
-      "outputPath": "/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.CrossPlatform/obj/",
+      "outputPath": "/Users/Toan.Vo/prj/asyncawait/Weather.CrossPlatform/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Toan.Vo/.nuget/NuGet/NuGet.Config"
@@ -9040,8 +9040,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/Weather.Core.csproj": {
-              "projectPath": "/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/Weather.Core.csproj"
+            "/Users/Toan.Vo/prj/asyncawait/Weather.Core/Weather.Core.csproj": {
+              "projectPath": "/Users/Toan.Vo/prj/asyncawait/Weather.Core/Weather.Core.csproj"
             }
           }
         }

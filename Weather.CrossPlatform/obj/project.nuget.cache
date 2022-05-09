@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UIGDLVW9DeXsBw8eZsZB1QIiEoTce//2Su+aPMwwSm+6Dbqjozh3pDLlxVChBG+Et5HTNtw/VSJ/nqwO7isGAA==",
+  "dgSpecHash": "IyivB4S3geFkB+Vxvx16DcPohkxRnxUg4WmGEYr6smz1djj8G1xE1MnswJfi1KpatoCwo+IoNHsQyEEfQ75MFA==",
   "success": true,
-  "projectFilePath": "/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.CrossPlatform/Weather.csproj",
+  "projectFilePath": "/Users/Toan.Vo/prj/asyncawait/Weather.CrossPlatform/Weather.csproj",
   "expectedPackageFiles": [
     "/Users/Toan.Vo/.nuget/packages/avalonia/0.9.7/avalonia.0.9.7.nupkg.sha512",
     "/Users/Toan.Vo/.nuget/packages/avalonia.controls.datagrid/0.9.7/avalonia.controls.datagrid.0.9.7.nupkg.sha512",

@@ -226,11 +226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/Weather.Core.csproj",
+      "projectUniqueName": "/Users/Toan.Vo/prj/asyncawait/Weather.Core/Weather.Core.csproj",
       "projectName": "Weather.Core",
-      "projectPath": "/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/Weather.Core.csproj",
+      "projectPath": "/Users/Toan.Vo/prj/asyncawait/Weather.Core/Weather.Core.csproj",
       "packagesPath": "/Users/Toan.Vo/.nuget/packages/",
-      "outputPath": "/Users/Toan.Vo/Downloads/asyncawait/StartHere/Weather.Core/obj/",
+      "outputPath": "/Users/Toan.Vo/prj/asyncawait/Weather.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Toan.Vo/.nuget/NuGet/NuGet.Config"
